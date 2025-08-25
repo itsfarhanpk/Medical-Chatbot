@@ -189,8 +189,8 @@ This project is licensed under the MIT License -
 
 For questions or support, please contact:
 
-- Email: [ai.engineer360@gmail.com]
-- GitHub: [@Aiengineer360](https://github.com/Aiengineer360)
+- Email: [itsfarhan.pk@gmail.com]
+- GitHub: [@itsfarhanpk](https://github.com/itsfarhanpk/Medical-Chatbot.git)
 
 ---
 
